@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# CS50 AI large datasets (re-downloadable)
+traffic/gtsrb/
+shopping/shopping.csv
+
+# Editors & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
